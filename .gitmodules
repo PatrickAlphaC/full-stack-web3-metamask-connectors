@@ -1,0 +1,18 @@
+[submodule "html-js-ethers-connect"]
+	path = html-js-ethers-connect
+	url = https://github.com/PatrickAlphaC/html-js-ethers-connect
+[submodule "nextjs-ethers-metamask-connect"]
+	path = nextjs-ethers-metamask-connect
+	url = https://github.com/PatrickAlphaC/nextjs-ethers-metamask-connect
+[submodule "nextjs-moralis-metamask-connect"]
+	path = nextjs-moralis-metamask-connect
+	url = https://github.com/PatrickAlphaC/nextjs-moralis-metamask-connect
+[submodule "nextjs-usedapp-metamask-connect"]
+	path = nextjs-usedapp-metamask-connect
+	url = https://github.com/PatrickAlphaC/nextjs-usedapp-metamask-connect
+[submodule "nextjs-web3-react-metamask-connect"]
+	path = nextjs-web3-react-metamask-connect
+	url = https://github.com/PatrickAlphaC/nextjs-web3-react-metamask-connect
+[submodule "nextjs-web3modal-metamask-connect"]
+	path = nextjs-web3modal-metamask-connect
+	url = https://github.com/PatrickAlphaC/nextjs-web3modal-metamask-connect
